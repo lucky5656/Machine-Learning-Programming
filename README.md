@@ -11,4 +11,4 @@ My programming文件夹里是我自己学习过程中完成的代码，每个练
 
 ## 2. 学习《机器学习实战》过程中的编程练习代码
 
-Machine-Learning-master文件夹里是机器学习实战过程中完成的编程练习代码
+Machine-Learning-master文件夹里是学习机器学习实战过程中完成的编程练习代码
